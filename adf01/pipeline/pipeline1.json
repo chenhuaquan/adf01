@@ -16,7 +16,7 @@
 				"type": "SetVariable",
 				"dependsOn": [
 					{
-						"activity": "Wait 5 seconds",
+						"activity": "Wait 6 seconds",
 						"dependencyConditions": [
 							"Succeeded"
 						]
